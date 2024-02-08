@@ -1,0 +1,15 @@
+﻿  uiDraw.cpp
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(183,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(184,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(459,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(458,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(499,80): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(499,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(499,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(503,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(504,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(512,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(513,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(557,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\CS165\skeet\uiDraw.cpp(560,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  skeet.vcxproj -> C:\Users\user\Desktop\CS165\skeet\Debug\skeet.exe
